@@ -21,6 +21,6 @@ jobs:
           user_name: MehakHarlapur
 
           # The text you want to appear
-          text: MEHAK
+          text: MEHAK DEV
 
       - uses: jasineri/simple-push-action@v1
