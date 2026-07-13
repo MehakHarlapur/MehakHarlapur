@@ -1,12 +1,12 @@
 name: Generate GitArtWork
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
   workflow_dispatch:
 
 jobs:
   build:
+    name: Make GitArtWork SVG
     runs-on: ubuntu-latest
 
     permissions:
@@ -17,12 +17,10 @@ jobs:
 
       - uses: jasineri/gitartwork@v1
         with:
+          # Your GitHub username
           user_name: MehakHarlapur
 
-      - name: Commit generated artwork
-        run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          git add gitartwork.svg
-          git commit -m "Update gitartwork" || echo "No changes"
-          git push
+          # The text you want to appear
+          text: MEHAK
+
+      - uses: jasineri/simple-push-action@v1
