@@ -73,6 +73,12 @@ Python • Django • JavaScript • HTML • CSS • MySQL • MongoDB • Tens
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehakharlapur&theme=nord)
 
+<h2 align="center">✨ GitArtWork</h2>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/MehakHarlapur/MehakHarlapur/main/gitartwork.svg" alt="Mehak GitArtWork"/>
+</p>
+
 ## 🌐 Connect
 
 - LinkedIn: https://linkedin.com/in/mehakharlapur
