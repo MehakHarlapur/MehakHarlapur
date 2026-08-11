@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Mehakbanu Harlapur
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mehakbanu%20Harlapur&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&animation=twinkling&color=0:7dd3fc,100:2563eb" />
+</p>
 
 🎓 **Computer Science & Engineering Graduate** passionate about **Artificial Intelligence, Machine Learning, Generative AI, Data Science, and Software Development.**
 
