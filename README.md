@@ -319,13 +319,12 @@ I'm especially interested in building **AI-powered products, intelligent automat
 
 ---
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Mehak&fontSize=70&fontColor=2563eb&animation=twinkling"
-    alt="Mehak"
-  />
-</p>
 
+<h2 align="center">✨ GitArtWork</h2>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/MehakHarlapur/MehakHarlapur/main/gitartwork.svg" alt="Mehak GitArtWork"/>
+</p>
 ---
 
 ## 📈 GitHub Activity
