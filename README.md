@@ -319,7 +319,12 @@ I'm especially interested in building **AI-powered products, intelligent automat
 
 ---
 
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Mehak&fontSize=70&fontColor=2563eb&animation=twinkling"
+    alt="Mehak"
+  />
+</p>
 
 ---
 
