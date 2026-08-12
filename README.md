@@ -307,22 +307,6 @@ I'm currently open to opportunities in:
 I'm especially interested in building **AI-powered products, intelligent automation systems, RAG applications, and machine learning solutions**.
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MehakHarlapur&show_icons=true&theme=nord&hide_border=true"
-    alt="Mehakbanu's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehakHarlapur&layout=compact&theme=nord&hide_border=true"
-    alt="Mehakbanu's Top Languages"
-    height="180"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -335,14 +319,7 @@ I'm especially interested in building **AI-powered products, intelligent automat
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MehakHarlapur&theme=nord&no-frame=true&no-bg=true&margin-w=5&column=7"
-    alt="Mehakbanu's GitHub Trophies"
-  />
-</p>
 
 ---
 
