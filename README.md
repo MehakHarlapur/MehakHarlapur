@@ -307,46 +307,54 @@ I'm currently open to opportunities in:
 I'm especially interested in building **AI-powered products, intelligent automation systems, RAG applications, and machine learning solutions**.
 
 ---
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehakHarlapur&show_icons=true&theme=nord&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehakHarlapur&layout=compact&theme=nord&hide_border=true" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MehakHarlapur&show_icons=true&theme=nord&hide_border=true"
+    alt="Mehakbanu's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehakHarlapur&layout=compact&theme=nord&hide_border=true"
+    alt="Mehakbanu's Top Languages"
+    height="180"
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MehakHarlapur&theme=nord&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=MehakHarlapur&theme=nord&hide_border=true"
+    alt="Mehakbanu's GitHub Streak"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehakHarlapur&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MehakHarlapur&theme=nord&no-frame=true&no-bg=true&margin-w=5&column=7"
+    alt="Mehakbanu's GitHub Trophies"
+  />
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehakHarlapur&theme=nord&hide_border=true&area=true" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MehakHarlapur&theme=nord&hide_border=true"
+    alt="Mehakbanu's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
-
----
-
-# 🎨 GitArtWork
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/MehakHarlapur/MehakHarlapur/main/gitartwork.svg" alt="Mehak GitArtWork"/>
-</p>
-
 ---
 
 # 🌐 Connect With Me
